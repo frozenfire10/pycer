@@ -1,0 +1,2 @@
+# pycer
+pyton ın cyber
